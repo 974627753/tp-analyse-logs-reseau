@@ -1,0 +1,22 @@
+RAPPORT D'ANALYSE DES LOGS RÉSEAU
+========================================
+
+RÉSUMÉ DES STATISTIQUES
+--------------------
+Date d'analyse : 2026-02-13
+Total connexions analysées : 84
+Connexions réussies : 59
+Connexions échouées : 25
+Port le plus utilisé : 22 (22 occurrences)
+Adresse IP la plus active : 192.168.1.10 (6 occurrences)
+
+ACTIVITÉS SUSPECTES DÉTECTÉES
+------------------------------
+IP suspecte : 192.168.1.10 - 6 échecs sur port 22
+IP suspecte : 192.168.1.20 - 6 échecs sur port 21
+IP suspecte : 192.168.1.40 - 6 échecs sur port 22
+TOP 3 DES PORTS LES PLUS UTILISÉS
+------------------------------
+1. Port 22 : 22 occurrences
+2. Port 443 : 11 occurrences
+3. Port 80 : 10 occurrences
